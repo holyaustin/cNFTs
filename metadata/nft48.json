@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 48",
+    "symbol": "METAPES",
+    "description": "Chilling between the rocks ...",
+    "image": "ipfs://QmRbGniYYuVHDZvuf3CRJEogmi32znVGMdQwsarzrWwjZi",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Forty Eight"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmRbGniYYuVHDZvuf3CRJEogmi32znVGMdQwsarzrWwjZi",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

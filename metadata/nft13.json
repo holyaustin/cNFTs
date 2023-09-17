@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 13",
+    "symbol": "METAPES",
+    "description": "They are escaping from earth and stepping into the metaverse!",
+    "image": "ipfs://QmfCr586aHFVk6p2WhTC1Kvcaps24Mtny2CLB5bsTT9MvZ",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Thirteen"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmfCr586aHFVk6p2WhTC1Kvcaps24Mtny2CLB5bsTT9MvZ",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

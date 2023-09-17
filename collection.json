@@ -1,0 +1,27 @@
+{
+    "name": "Metaverse Apes",
+    "symbol": "METAPES",
+    "description": "NFTs demo on Solana using account compression.",
+    "seller_fee_basis_points": 0,
+    "image": "https://shdw-drive.genesysgo.net/91uEGv2pFyc3nZPgya6L41FKaoD6GoTcGDHqhokHe7Hw/Frame%205%20(2).png",
+    "external_url": "null",
+    "collection": {
+      "name": "Testing Compression"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://shdw-drive.genesysgo.net/91uEGv2pFyc3nZPgya6L41FKaoD6GoTcGDHqhokHe7Hw/Frame%205%20(2).png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "6UadoV4WxF64tsSpCcHzCZEbjFxPCoogx4wbESywcsxM",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

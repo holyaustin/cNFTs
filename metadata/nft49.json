@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 49",
+    "symbol": "METAPES",
+    "description": "They have no idea what's happening.",
+    "image": "ipfs://QmWXZp5oZb6VkJm95MMpNHWUKaefj8mWvMYrj9FTNPWkz1",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Forty Nine"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmWXZp5oZb6VkJm95MMpNHWUKaefj8mWvMYrj9FTNPWkz1",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

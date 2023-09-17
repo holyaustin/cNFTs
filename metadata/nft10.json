@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 10",
+    "symbol": "METAPES",
+    "description": "Nope, return is no option. Sorry apes!",
+    "image": "ipfs://QmV8zLF5zBSiKU9go9GXkeCZXeHp7iZQMzpBxnU5eGHSZT",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Ten"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmV8zLF5zBSiKU9go9GXkeCZXeHp7iZQMzpBxnU5eGHSZT",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

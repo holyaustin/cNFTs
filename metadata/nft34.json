@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 34",
+    "symbol": "METAPES",
+    "description": "Heaven or metaverse? We don't care!",
+    "image": "ipfs://Qmef7Xrh1YTgQqXbr86o3TrFoya9ZLk1RVdXMga1JjEjnm",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Thirty Four"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://Qmef7Xrh1YTgQqXbr86o3TrFoya9ZLk1RVdXMga1JjEjnm",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 36",
+    "symbol": "METAPES",
+    "description": "The rainbow shows the way!",
+    "image": "ipfs://QmQr6BwcPKDUegCqZfvyzHAbZTekUP1qxZo9jTZ7GnBgoM",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Thirty Six"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmQr6BwcPKDUegCqZfvyzHAbZTekUP1qxZo9jTZ7GnBgoM",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

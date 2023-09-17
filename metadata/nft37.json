@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 37",
+    "symbol": "METAPES",
+    "description": "There is no way back!",
+    "image": "ipfs://QmeiDVb286LCpB7yMNqSR83asubqzgu7mNmH66XBxDSL88",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Thirty Seven"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmeiDVb286LCpB7yMNqSR83asubqzgu7mNmH66XBxDSL88",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

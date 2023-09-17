@@ -1,0 +1,21 @@
+{
+    "name": "Compressed NFT 5",
+    "symbol": "METAPES",
+    "description": "The metaverse is far away :-(",
+    "image": "ipfs://QmcejQwXNuQ2TZANibaYzcCHD8h9cY1pNodWmfzCo1F65M",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "Five"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "ipfs://QmcejQwXNuQ2TZANibaYzcCHD8h9cY1pNodWmfzCo1F65M",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
